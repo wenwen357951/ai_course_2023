@@ -12,10 +12,10 @@
 
 請確保是否在課程開始前準備以下內容：
 * 如果使用 Colab 進行課程，請檢查以下連結是否有效且您可以執行程式碼 
-[https://colab.research.google.com/github/wenwen357951/dl_scourse_2022/blob/main/notebooks/00_Checking_Correct_Installation.ipynb](https://colab.research.google.com/github/wenwen357951/dl_scourse_2022/blob/main/notebooks/00_Checking_Correct_Installation.ipynb)
+[https://colab.research.google.com/github/wenwen357951/ai_scourse_2023/blob/main/notebooks/00_Checking_Correct_Installation.ipynb](https://colab.research.google.com/github/wenwen357951/ai_scourse_2023/blob/main/notebooks/00_Checking_Correct_Installation.ipynb)
 
 * 如果使用 Anaconda 或 Docker 進行課程，請檢查是否可以執行 `00_Checking_Correct_Installation.ipynb` 檔案在 
-[https://github.com/wenwen357951/dl_scourse_2022/notebooks](https://github.com/wenwen357951/dl_scourse_2022/tree/main/notebooks)
+[https://github.com/wenwen357951/ai_scourse_2023/notebooks](https://github.com/wenwen357951/ai_scourse_2023/tree/main/notebooks)
 
 ## 上課日期 
 ### 第一周 (6 h / 2 堂課)
