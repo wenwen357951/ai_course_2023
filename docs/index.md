@@ -24,6 +24,7 @@
   * [01_Artificial_Intelligence.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/01_Artificial_Intelligence.pdf)
   * [02_AI_ChatBot_(Bard,ChatGPT).pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/02_AI_ChatBot_(Bard%2CChatGPT).pdf)
 * 9月27日 13:00-16:00 禮拜三 (3h) 第 2 堂課 
+  * [03_Machine_Learning.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/03_Machine_Learning.pdf)
 
 ### 第二周 (6 h / 2 Session)
 * 10月3日 13:00-16:00 禮拜二 (3h) 第 3 堂課 
