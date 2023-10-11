@@ -29,8 +29,8 @@
   * [03_Machine_Learning.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/03_Machine_Learning.pdf)
 ### 第二周 (6 h / 2 Session)
 * 10月3日 13:30-16:30 禮拜三 (3h) 第 3 堂課
-  * [01_Machine_Learning_Classification.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/01_Machine_Learning_Classification.ipynb)
-  * [02_Scikit_Learn.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/02_Scikit_Learn.ipynb) 
+  * [02_Scikit_Learn.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/02_Scikit_Learn.ipynb)
+  * [03_Machine_Learning.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/03_Machine_Learning.pdf)
 * 10月11日 13:30-16:30 禮拜二 (3h) 第 4 堂課 
 
 ### 第三周 (6 h / 2 Session)
