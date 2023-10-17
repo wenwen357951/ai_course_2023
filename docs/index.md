@@ -1,5 +1,5 @@
-
 # 人工智慧課程 (24小時)
+
 ## 2023 年人工智慧短期課程
 
 本人工智慧課程重點在於機器學習與深度學習的實作。
@@ -17,8 +17,11 @@
 * 如果使用 Anaconda 或 Docker 進行課程，請檢查是否可以執行 `00_Checking_Correct_Installation.ipynb` 檔案在 
 [https://github.com/wenwen357951/ai_course_2023/notebooks](https://github.com/wenwen357951/ai_course_2023/tree/main/notebooks)
 
+
 ## 上課日期 
+
 ### 第一周 (6 h / 2 堂課)
+
 * 9月19日 13:30-16:30 禮拜二 (3h) 第 1 堂課
   * [00_Checking_Correct_Installation.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/00_Checking_Correct_Installation.ipynb)
   * [01_Artificial_Intelligence.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/01_Artificial_Intelligence.pdf)
@@ -27,7 +30,10 @@
   * [01_Machine_Learning_Classification.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/01_Machine_Learning_Classification.ipynb)
   * [02_Scikit_Learn.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/02_Scikit_Learn.ipynb)
   * [03_Machine_Learning.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/03_Machine_Learning.pdf)
+
+
 ### 第二周 (6 h / 2 Session)
+
 * 10月3日 13:30-16:30 禮拜二 (3h) 第 3 堂課
   * [02_Scikit_Learn.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/02_Scikit_Learn.ipynb)
   * [03_Machine_Learning.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/03_Machine_Learning.pdf)
@@ -35,7 +41,9 @@
   * [03_Multilayer_Perceptron.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/03_Multilayer_Perceptron.ipynb)
   * [03_Machine_Learning.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/03_Machine_Learning.pdf)
 
+
 ### 第三周 (6 h / 2 Session)
+
 * 10月17日 13:30-16:30 禮拜二 (3h) 第 5 堂課 
   * [03_Multilayer_Perceptron.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/03_Multilayer_Perceptron.ipynb)
   * [03_Machine_Learning.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/03_Machine_Learning.pdf)
@@ -43,6 +51,8 @@
   * [04_Tensorflow.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/04_Tensorflow.pdf)
 * 10月24日 13:30-16:30 禮拜二 (3h) 第 6 堂課 
 
+
 ### 第四周 (6 h / 2 Session)
+
 * 10月31日 13:30-16:30 禮拜二 (3h) 第 7 堂課 
 * 11月07日 13:30-16:30 禮拜二 (3h) 第 8 堂課 
