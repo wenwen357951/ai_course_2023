@@ -50,7 +50,8 @@
   * [04_Tensorflow.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/04_Tensorflow.ipynb)
   * [04_Tensorflow.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/04_Tensorflow.pdf)
 * 10月24日 13:30-16:30 禮拜二 (3h) 第 6 堂課 
-
+  * [04_Tensorflow.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/04_Tensorflow.ipynb)
+  * [04_Tensorflow.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/04_Tensorflow.pdf)
 
 ### 第四周 (6 h / 2 Session)
 
