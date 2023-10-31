@@ -52,8 +52,14 @@
 * 10月24日 13:30-16:30 禮拜二 (3h) 第 6 堂課 
   * [04_Tensorflow.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/04_Tensorflow.ipynb)
   * [04_Tensorflow.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/04_Tensorflow.pdf)
+  * [05_Keras_Clothing_Classification.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/05_Keras_Clothing_Classification.ipynb)
+
 
 ### 第四周 (6 h / 2 Session)
 
-* 10月31日 13:30-16:30 禮拜二 (3h) 第 7 堂課 
+* 10月31日 13:30-16:30 禮拜二 (3h) 第 7 堂課
+  * [05_Keras_Clothing_Classification.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/05_Keras_Clothing_Classification.ipynb)
+  * [06_TensorFlow_Dataset.ipynb](https://github.com/wenwen357951/ai_course_2023/blob/main/notebooks/06_TensorFlow_Dataset.ipynb)
+  * [04_Tensorflow.pdf](https://github.com/wenwen357951/ai_course_2023/blob/main/slides/04_Tensorflow.pdf)
+
 * 11月07日 13:30-16:30 禮拜二 (3h) 第 8 堂課 
